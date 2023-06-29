@@ -14,15 +14,3 @@ code {
 ul {
   list-style: none;
 }
-.container {
-  width: 400px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 20px;
-  border-radius: 20px;
-}
-
-.btn_container {
-  display: flex;
-  justify-content: center;
-}
